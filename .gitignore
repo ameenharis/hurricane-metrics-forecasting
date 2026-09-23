@@ -1,0 +1,9 @@
+# data
+data/
+*.zip
+
+# notebook / python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
